@@ -1,6 +1,6 @@
-## MOVIE MAGNET
+## TMDB-MOVIE-APP
 
-Movie Magnet is a web application developed using React. This dynamic and fully responsive platform provides users with an immersive experience, allowing them to explore information and standings of movies and web shows. The app fetches real-time data from TMDB's API, ensuring that users have access to the latest content. It also incorporates various React libraries to enhance usability and functionality as mentioned in the below badges.
+Movie app is a web application developed using React. This dynamic and fully responsive platform provides users with an immersive experience, allowing them to explore information and standings of movies and web shows. The app fetches real-time data from TMDB's API, ensuring that users have access to the latest content. It also incorporates various React libraries to enhance usability and functionality as mentioned in the below badges.
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
@@ -23,7 +23,6 @@ Movie Magnet is a web application developed using React. This dynamic and fully 
 ![image](https://github.com/vaheedsk36/movie-magnet/assets/72762824/277009ff-e3fd-4d9a-920c-1635edc6ee0d)
 ![image](https://github.com/vaheedsk36/movie-magnet/assets/72762824/2068f4db-1ba6-4387-a410-eceeb524fa90)
 ![image](https://github.com/vaheedsk36/movie-magnet/assets/72762824/2a5db533-1882-433d-9553-fa9cc853f397)
-
 
 ## Setup Instructions
 
